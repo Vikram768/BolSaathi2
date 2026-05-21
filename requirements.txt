@@ -2,5 +2,8 @@ fastapi
 uvicorn
 requests
 pydantic
+transformers
+torch
+sentencepiece
 
 
